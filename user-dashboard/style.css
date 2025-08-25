@@ -1,0 +1,5 @@
+body{font-family:system-ui;margin:0;padding:24px;background:#fafafa;display:grid;grid-template-columns:280px 1fr;gap:16px}
+.panel{background:#fff;border:1px solid #eee;border-radius:12px;padding:12px}
+.user{padding:8px;border-radius:8px;cursor:pointer}
+.user:hover{background:#f2f2f2}
+.active{background:#e8f0ff}
