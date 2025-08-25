@@ -1,0 +1,6 @@
+body{font-family:system-ui;margin:0;padding:24px;background:#fafafa}
+.panel{background:#fff;border:1px solid #eee;border-radius:12px;padding:12px}
+.controls{display:flex;gap:12px;align-items:center;margin-bottom:12px}
+.badge{display:inline-block;padding:4px 8px;border-radius:999px;background:#f0f0f0;margin-right:8px}
+.list{display:grid;gap:8px}
+.item{padding:8px;border:1px solid #eee;border-radius:10px;background:#fff;display:flex;justify-content:space-between;align-items:center}
